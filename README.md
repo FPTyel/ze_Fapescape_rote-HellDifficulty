@@ -17,8 +17,8 @@ Features of HELL DIFFICULTY:
 6. Broken triggers effect: Many triggers will have unexpected time to be activaited (less \ more), chat is NOT typing the time to activate \ typing fake time \ typing random symbols
 7. New music :)
 
-Will you face the fear? Feeling brave? Try this out! :D
+Will you face the fear? Feeling brave? Try this out!
 
 Made by https://steamcommunity.com/id/FPTyel/
 
-Thanks for https://steamcommunity.com/id/heyfumi/ for helping :D
+Thanks for https://steamcommunity.com/id/heyfumi/ for helping.
