@@ -1,4 +1,4 @@
-# ze_Fapescape_rote-HellDifficulty
+# [CS:GO] ze_Fapescape_rote-HellDifficulty
 
 To use this:
 
