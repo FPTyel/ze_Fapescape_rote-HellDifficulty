@@ -18,6 +18,4 @@ Features of HELL DIFFICULTY:
 
 Will you face the fear? Feeling brave? Try this out!
 
-Made by https://steamcommunity.com/id/FPTyel/
-
 Thanks for https://steamcommunity.com/id/heyfumi/ for helping.
